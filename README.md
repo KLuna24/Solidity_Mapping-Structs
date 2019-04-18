@@ -20,4 +20,6 @@ REMIX IDE `https://remix.ethereum.org`
  
 * getInstructors 
 
+![Alt text](https://github.com/KLuna24/Solidity_Mapping-Structs/blob/master/getInstructor.png)
 
+* getInstructors address
