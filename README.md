@@ -13,8 +13,11 @@ REMIX IDE `https://remix.ethereum.org`
  
  * setInstructor
  
- ![Alt text](?raw=true "Optional Title")
+ ![Alt text](https://github.com/KLuna24/Solidity_Mapping-Structs/blob/master/image1.png)
  
 
    
  
+* getInstructors 
+
+
